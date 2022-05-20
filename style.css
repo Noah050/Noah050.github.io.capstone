@@ -1,0 +1,22 @@
+.form {
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    background-color: cadetblue;
+    border: black solid 3px;
+    border-radius: 25px;
+    padding: 30px;
+    margin: auto    ;
+}
+#LP {
+    margin: 20px;
+    font-size: 20px;
+}
+#M {
+    margin: 20px;
+    font-size: 20px;
+}
+#IR {
+    margin: 20px;
+    font-size: 20px;
+}
